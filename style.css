@@ -11,7 +11,7 @@ body {
   text-align: center;
   line-height: 75px;
   font-family: 'Orbitron', sans-serif;
-  background-image: url("/space1.jpg");
+  background-image: url("space_1.jpg");
 
 }
 
@@ -22,6 +22,7 @@ body {
   text-align: center;
   line-height: 75px;
   font-family: 'Orbitron', sans-serif;
+  background-image: url("sacred_geo1.jpg");
 }
 
 .resume {
@@ -31,6 +32,7 @@ body {
   text-align: center;
   line-height: 75px;
   font-family: 'Orbitron', sans-serif;
+  background-image: url("sacred_geo.jpg");
 }
 
 .contact {
@@ -40,4 +42,5 @@ body {
   text-align: center;
   line-height: 75px;
   font-family: 'Orbitron', sans-serif;
+  background-image: url("sacred_geo2.jpg");
 }
