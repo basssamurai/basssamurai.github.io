@@ -48,3 +48,13 @@ body {
   background-image: url("sacred_geo.jpg");
   background-position: center;
 }
+
+#linkedin {
+  width: 100px;
+  height: 100px;
+}
+
+#github {
+  width: 80px;
+  height: 80px;
+}
