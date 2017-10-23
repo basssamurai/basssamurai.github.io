@@ -1,6 +1,11 @@
 ul {
   display: inline;
   list-style-type: none;
+  width: 50%;
+
+}
+
+li {
 
 }
 
