@@ -1,11 +1,12 @@
 ul {
   display: inline;
   list-style-type: none;
-  
+
 }
 
 a {
     display: block;
     padding: 8px;
-    background-color: #dddddd;
+    background-color: rgba(1, 41, 255, .5);
+    color: white;
 }
