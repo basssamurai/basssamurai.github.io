@@ -4,8 +4,13 @@ body {
   justify-content: center;
 }
 
+li {
+  list-style-type: none;
+
+}
+
 .nav {
-  background-color: rgb(1, 41, 255,)
+  background-color: rgb(1, 41, 255)
 }
 
 .art {
