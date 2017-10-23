@@ -4,21 +4,28 @@ body {
   justify-content: center;
 }
 
-li {
+ul {
   list-style-type: none;
+}
+
+li, a {
+  color: white;
 
 }
 
 .nav {
-  background-color: rgb(1, 41, 255)
+  background-color: rgb(1, 41, 255);
 }
 
 .art {
-  background-color: rgb(178, 135, 0)
-  height: 500px
+  background-color: rgb(178, 135, 0);
+  height: 500px;
 }
 
 .links {
-  background-color: rgb(0,0,0)
-  height: 500px
+  background-color: rgb(0,0,0);
+  height: 500px;
+  padding: 50px;
+  margin: 100px;
+  color: white;
 }
